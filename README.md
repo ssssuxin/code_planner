@@ -10,7 +10,7 @@ simulation environment
 ②narrow tunnel: https://github.com/ssssuxin/autonomous_navigation_environment_ros1
 
 
-1. Garage
+1.Garage
 
 in env
 ros2 launch ego_planner uav_new_garage.launch.py
