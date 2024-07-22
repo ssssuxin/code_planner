@@ -14,7 +14,11 @@ simulation environment
 
 in env
 ros2 launch ego_planner uav_new_garage.launch.py
+
+ros2 launch visualization_tools visualization_tools.launch.py 
+
 in planner
+
 ros2 launch uav_planner 5_21_new_garage_invalid.launch.py
 
 
