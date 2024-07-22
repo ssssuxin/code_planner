@@ -26,12 +26,16 @@ in planner
 
 2.Narrow Tunnel
 
-in evn
+in Ros1 evn
 
 ①roslaunch vehicle_simulator narrow_tunnel.launch
 
 ②ros2 run ros1_bridge dynamic_bridge 
 
+in Ros2 env
+
+③ros2 launch visualization_tools visualization_tools.launch.py 
+
 in planner
 
-③ros2 launch uav_planner explore_tunnel_5_20_guv.launch.py 
+④ros2 launch uav_planner explore_tunnel_5_20_guv.launch.py 
