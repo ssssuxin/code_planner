@@ -1,5 +1,9 @@
 # code_planner
 
+Expeiments Videos
+①https://youtu.be/jENgJ3dgBa0  or  https://www.bilibili.com/video/BV1h18YejEWP/
+
+
 
 note:
 
