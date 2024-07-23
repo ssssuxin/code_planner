@@ -13,16 +13,16 @@ Experiment ① "Narrow Tunnel": https://youtu.be/jENgJ3dgBa0  or  https://www.bi
 
 ## Usages  
 ### Garage  
-in env  
+in env_ego  
 ①ros2 launch ego_planner uav_new_garage.launch.py  
 ②ros2 launch visualization_tools visualization_tools.launch.py  
 in planner  
 ③ros2 launch uav_planner 5_21_new_garage_invalid.launch.py  
 ### Narrow Tunnel  
-in Ros1 evn  
+in env_ros1  
 ①roslaunch vehicle_simulator narrow_tunnel.launch  
 ②ros2 run ros1_bridge dynamic_bridge   
-in Ros2 env  
+in env_ego  
 ③ros2 launch visualization_tools visualization_tools.launch.py   
 in planner  
 ④ros2 launch uav_planner explore_tunnel_5_20_guv.launch.py 
