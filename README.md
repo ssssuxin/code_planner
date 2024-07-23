@@ -12,6 +12,7 @@ Ros2 Foxy
 ②narrow tunnel: https://github.com/ssssuxin/autonomous_navigation_environment_ros1  
 
 ## Usages  
+Please follow step "Simulation environment" to install experimental environments first.
 ### Garage  
 in env_ego  
 
@@ -30,7 +31,7 @@ in env_ego
 in planner  
 
     ros2 launch uav_planner explore_tunnel_5_20_guv.launch.py 
-in new terminate  
+in a new terminate  
 
     souce /opt/ros/noetic/setup.bash
     souce /opt/ros/foxy/setup.bash
