@@ -42,8 +42,18 @@ in a new terminate
 note: you cloud install ros1_bridge by apt-get or https://github.com/ros2/ros1_bridge
 
 ## Results of Tests in Multi-Layer environment
-<img src="img/res1.png" width="30%">  
-<img src="img/map1.png" width="30%"><img src="img/map2.png" width="30%"><img src="img/map3.png" width="30%">
+<div>
+  <img src="img/pic1.jpg" height=200 ><img src="img/pic2.jpg" height=200>
+</div>
+<img src="img/res1.png" height=400>  
+<div>
+  <img src="img/map1.png" height=200" ><img src="img/map2.png" height=200><img src="img/map3.png" height=200>
+</div>
+<div>
+  <img src="img/tra1.png" height=200 ><img src="img/tra2.png" height=200><img src="img/tra3.png" height=200>
+</div>
+
+
 
 
 
