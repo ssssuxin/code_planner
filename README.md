@@ -45,6 +45,9 @@ note: you cloud install ros1_bridge by apt-get or https://github.com/ros2/ros1_b
 <div>
   <img src="img/pic1.jpg" height=200 ><img src="img/pic2.jpg" height=200>
 </div>
+<div>
+  <img src="img/1.jpg" height=200><img src="img/4.jpg" height=200>
+</div>
 <img src="img/res1.png" height=400>  
 <div>
   <img src="img/map1.png" height=200" ><img src="img/map2.png" height=200><img src="img/map3.png" height=200>
