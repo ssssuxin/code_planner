@@ -8,6 +8,8 @@ We have designed several experimental evironments to validate the capability of 
 Experiment ① "Narrow Tunnel": https://youtu.be/jENgJ3dgBa0 or https://www.bilibili.com/video/BV1h18YejEWP/    
 Experiment ② "Narrow Tunnel: DSVP VS CODE": https://www.youtube.com/watch?v=VOSmzPwXvmc or https://www.bilibili.com/video/BV1vMvKesEBz/  
 Experiment ③ "Garage"       : https://www.youtube.com/watch?v=5gJdlG9kfTY or https://www.bilibili.com/video/BV14DeZe9Ev3/
+## Comparison between 2D and 3D exploration tasks
+https://youtu.be/98l-RHV5oCA
 ## Requirement
 Ubuntu20.04  
 Ros2 Foxy
