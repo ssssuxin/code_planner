@@ -62,6 +62,9 @@ note: you cloud install ros1_bridge by apt-get or https://github.com/ros2/ros1_b
 
 
 
-
-
+## DATA Rigor
+Please check the data statistics for comparing experiments, including exploration volume, time cost, etc., in the directory t_distribution_for_datarigor.
+<div>
+  <img src="/t_distribution_for_datarigor/garage/our/Volumn.png" height=200 >
+</div>
 
