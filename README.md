@@ -45,7 +45,33 @@ in a new terminate
     ros2 run ros1_bridge dynamic_bridge   
 note: you cloud install ros1_bridge by apt-get or https://github.com/ros2/ros1_bridge
 
-## Results of Tests in Multi-Layer environment
+## Results of Tests
+### Test 1
+<div>
+  <img src="test_results/garage_tra.png" height=200 >
+</div>
+<div>
+  <img src="test_results/Timenewroma_garage_volumn.png" height=200><img src="test_results/Timenewroma_garage_runtime.png" height=200>
+</div>
+
+### Test 2
+<div>
+  <img src="test_results/tunnel_tra.png" height=200 >
+</div>
+<div>
+  <img src="test_results/Timenewroma_tunnel_volumn.png" height=200><img src="test_results/Timenewroma_tunnel_runtime.png" height=200>
+</div>
+
+### Test 3
+<div>
+  <img src="test_results/REAL_ENV.png" height=200 >
+</div>
+<div>
+  <img src="test_results/REAL_VOL.png" height=200><img src="test_results/REAL_RUNTIME.png" height=200>
+</div>
+
+
+
 <!---
 <div>
   <img src="img/pic1.jpg" height=200 ><img src="img/pic2.jpg" height=200>
