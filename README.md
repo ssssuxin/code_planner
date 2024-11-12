@@ -54,7 +54,7 @@ CODE                                                   TARE
 <div>
   <img src="test_results/O_G.gif" width=400 >  <img src="test_results/T_G.gif" width=400 > 
 </div>
-CODE                                TARE
+
 
 
 
@@ -76,7 +76,7 @@ CODE                                TARE
 </div>
 CODE                                                   TARE
 <div>
-  <img src="test_results/O_R.gif" width=500 >  <img src="test_results/T_R.gif" width=500 > 
+  <img src="test_results/O_R.gif" width=400 >  <img src="test_results/T_R.gif" width=400 > 
 </div>
 <div>
   <img src="test_results/REAL_VOL.png" width=500><img src="test_results/REAL_RUNTIME.png" width=500>
