@@ -51,14 +51,14 @@ note: you cloud install ros1_bridge by apt-get or https://github.com/ros2/ros1_b
   <img src="test_results/garage_tra.png" height=200 >
 </div>
 <div>
-  <img src="test_results/O_G.gif" width=500 >  <img src="test_results/T_G.gif" width=500 > 
+  <img src="test_results/O_G.gif" width=400 >  <img src="test_results/T_G.gif" width=400 > 
 
 </div>
 
 
 
 <div>
-  <img src="test_results/Timenewroma_garage_volumn.png" width=500><img src="test_results/Timenewroma_garage_runtime.png" width=500>
+  <img src="test_results/Timenewroma_garage_volumn.png" width=400><img src="test_results/Timenewroma_garage_runtime.png" width=400>
 </div>
 
 ### Test 2
