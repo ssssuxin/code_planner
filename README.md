@@ -50,6 +50,7 @@ note: you cloud install ros1_bridge by apt-get or https://github.com/ros2/ros1_b
 <div>
   <img src="test_results/garage_tra.png" height=200 >
 </div>
+CODE                                                   TARE
 <div>
   <img src="test_results/O_G.gif" width=400 >  <img src="test_results/T_G.gif" width=400 > 
 </div>
@@ -73,6 +74,7 @@ CODE                                TARE
 <div>
   <img src="test_results/REAL_ENV.png" height=200 >
 </div>
+CODE                                                   TARE
 <div>
   <img src="test_results/O_R.gif" width=500 >  <img src="test_results/T_R.gif" width=500 > 
 </div>
