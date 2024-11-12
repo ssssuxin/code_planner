@@ -51,7 +51,14 @@ note: you cloud install ros1_bridge by apt-get or https://github.com/ros2/ros1_b
   <img src="test_results/garage_tra.png" height=200 >
 </div>
 <div>
-  <img src="test_results/Timenewroma_garage_volumn.png" height=200><img src="test_results/Timenewroma_garage_runtime.png" height=200>
+  <img src="test_results/O_G.gif" width=500 >  <img src="test_results/T_G.gif" width=500 > 
+
+</div>
+
+
+
+<div>
+  <img src="test_results/Timenewroma_garage_volumn.png" width=500><img src="test_results/Timenewroma_garage_runtime.png" width=500>
 </div>
 
 ### Test 2
@@ -59,7 +66,7 @@ note: you cloud install ros1_bridge by apt-get or https://github.com/ros2/ros1_b
   <img src="test_results/tunnel_tra.png" height=200 >
 </div>
 <div>
-  <img src="test_results/Timenewroma_tunnel_volumn.png" height=200><img src="test_results/Timenewroma_tunnel_runtime.png" height=200>
+  <img src="test_results/Timenewroma_tunnel_volumn.png" width=500><img src="test_results/Timenewroma_tunnel_runtime.png" width=500>
 </div>
 
 ### Test 3
@@ -67,7 +74,10 @@ note: you cloud install ros1_bridge by apt-get or https://github.com/ros2/ros1_b
   <img src="test_results/REAL_ENV.png" height=200 >
 </div>
 <div>
-  <img src="test_results/REAL_VOL.png" height=200><img src="test_results/REAL_RUNTIME.png" height=200>
+  <img src="test_results/O_R.gif" width=500 >  <img src="test_results/T_R.gif" width=500 > 
+</div>
+<div>
+  <img src="test_results/REAL_VOL.png" width=500><img src="test_results/REAL_RUNTIME.png" width=500>
 </div>
 
 
