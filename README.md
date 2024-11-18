@@ -50,6 +50,8 @@ note: you cloud install ros1_bridge by apt-get or https://github.com/ros2/ros1_b
 <div>
   <img src="test_results/garage_tra.png" height=200 >
 </div>
+Check https://youtu.be/zGFnGL6-HBs for tra comparison.
+
 CODE                                                   TARE
 <div>
   <img src="test_results/O_G.gif" width=400 >  <img src="test_results/T_G.gif" width=400 > 
