@@ -1,6 +1,5 @@
 # code_planner
-The paper "CODE: Complete Coverage UAV Exploration Planner using Dual-Type Viewpoints for Multi-Layer Complex Environments" is currently under submission to the RA-L journal.  
-The source code of code-planner will be soon available.  
+The paper "CODE: Complete Coverage UAV Exploration Planner using Dual-Type Viewpoints for Multi-Layer Complex Environments" has been accepted by RA-L in December 12th.
 
 ## Expeiments Videos  
 We have designed several experimental evironments to validate the capability of our method. Updates are ongoing.  
