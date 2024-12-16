@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/opt/ros/foxy/include/**",
+                "/usr/include/**",
+                "/usr/include/ignition/math6/gz/math",
+                "${workspaceFolder}/src/planner/bspline_opt/include",
+                "${workspaceFolder}/src/planner/traj_utils/include",
+                "${workspaceFolder}/install/traj_utils_msg/include",
+                "${workspaceFolder}/install/traj_utils/include",
+                "${workspaceFolder}/install/quadrotor_msgs/include",
+                "${workspaceFolder}/src/planner/plan_env/include",
+                "${workspaceFolder}/src/planner/path_searching/include",
+                "${workspaceFolder}/src/planner/plan_manage/include",
+                "${workspaceFolder}/src/planner/traj_utils_so/include",
+                "${workspaceFolder}/src/uav_simulator/Utils/pose_utils/include",
+                "${workspaceFolder}/src/uav_autonomous_exploration/include",
+                "${workspaceFolder}/install/waypointpub_msgs/include",
+                "/opt/ros/foxy/include/gtsam/3rdparty/Eigen",
+                "${workspaceFolder}/src/uav_autonomous_exploration/or-tools/include"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}

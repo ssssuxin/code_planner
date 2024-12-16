@@ -1,0 +1,179 @@
+{
+    "workbench.editor.enablePreview": false,
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ],
+
+    "files.associations": {
+        "array": "cpp",
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "bitset": "cpp",
+        "string_view": "cpp",
+        "slist": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp",
+        "*.inc": "cpp",
+        "any": "cpp",
+        "*.tcc": "cpp",
+        "optional": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "cmath": "cpp",
+        "type_traits": "cpp",
+        "variant": "cpp",
+        "memory": "cpp",
+        "numeric": "cpp",
+        "orderingmethods": "cpp",
+        "functional": "cpp",
+        "sstream": "cpp",
+        "cctype": "cpp",
+        "clocale": "cpp",
+        "csetjmp": "cpp",
+        "csignal": "cpp",
+        "cstdarg": "cpp",
+        "cstddef": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "cstring": "cpp",
+        "ctime": "cpp",
+        "cwchar": "cpp",
+        "cwctype": "cpp",
+        "atomic": "cpp",
+        "strstream": "cpp",
+        "cfenv": "cpp",
+        "chrono": "cpp",
+        "cinttypes": "cpp",
+        "codecvt": "cpp",
+        "complex": "cpp",
+        "condition_variable": "cpp",
+        "cstdint": "cpp",
+        "cuchar": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "exception": "cpp",
+        "algorithm": "cpp",
+        "filesystem": "cpp",
+        "iterator": "cpp",
+        "map": "cpp",
+        "memory_resource": "cpp",
+        "ratio": "cpp",
+        "set": "cpp",
+        "string": "cpp",
+        "system_error": "cpp",
+        "tuple": "cpp",
+        "fstream": "cpp",
+        "future": "cpp",
+        "iomanip": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "mutex": "cpp",
+        "ostream": "cpp",
+        "scoped_allocator": "cpp",
+        "shared_mutex": "cpp",
+        "stdexcept": "cpp",
+        "streambuf": "cpp",
+        "thread": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "bit": "cpp",
+        "charconv": "cpp",
+        "*.txx": "cpp",
+        "*.ipp": "cpp",
+        "core": "cpp"
+    },
+    
+
+    "workbench.colorCustomizations": {
+        // "editor.lineHighlightBackground": "#15ff003d",//修改光标所在行的背景色
+        "editor.lineHighlightBorder": "#5eff0030"     //修改光标所在行的边框色
+    },
+    "todo-tree.tree.showScanModeButton": false,
+  "todo-tree.filtering.excludeGlobs": ["**/node_modules", "*.xml", "*.XML"],
+  "todo-tree.filtering.ignoreGitSubmodules": true,
+  "todohighlight.keywords": [],
+  "todo-tree.tree.showCountsInTree": true,
+  "todohighlight.keywordsPattern": "TODO:|FIXME:|NOTE:|\\(([^)]+)\\)",
+  "todohighlight.defaultStyle": {},
+  "todohighlight.isEnable": false,
+  "todo-tree.highlights.customHighlight": {
+    "BUG": {
+      "icon": "bug",
+      "foreground": "#F56C6C",
+      "type": "text"
+    },
+    // "FIXME": {
+    //   "icon": "flame",
+    //   "foreground": "#FF9800",
+    //   "type": "tag-and-comment"
+    // },
+    "DOWN": {
+      "foreground": "#00ffdd",
+      "type": "line"
+    },
+    "WAST": {
+      "icon": "note",
+      "foreground": "#868686",
+      "type": "whole-line"
+    },
+    "INIT": {
+      "icon": "info",
+      "foreground": "#15ff00",
+      "type": "text-and-comment"
+    },
+    "EXPL2": {
+        "icon": "info",
+        "foreground": "#b570ff",
+        "type": "text-and-comment"
+      },
+    "定性": {
+      "icon": "tag",
+      "foreground": "#409EFF",
+      "type": "line"
+    },
+    "EXPL": {
+      "icon": "versions",
+      "foreground": "#d900ff",
+      "type": "line"
+    },
+    "M?": {
+      "icon": "unverified",
+      "foreground": "#eeff00",
+      "type": "line"
+    },
+    "TODO": {
+        "icon": "unverified",
+        "foreground": "#0dff00",
+        "type": "line"
+      },
+    "BUG?": {
+      "icon": "unverified",
+      "foreground": "#fe0000",
+      "type": "line"
+    }
+  },
+  "todo-tree.general.tags": [
+    "BUG",
+    "EXPL",
+    // "FIXME",
+    "DOWN",
+    "INIT",
+    "EXPL2",
+    "WAST",
+    "定性",
+    "M?",
+    "TODO",
+    "BUG?"
+  ],
+}
