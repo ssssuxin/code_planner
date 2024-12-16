@@ -20,7 +20,7 @@ Ros2 Foxy
 
 ## Usages  
 Please follow step "Simulation environment" to install experimental environments first.
-### Garage  
+### Garage-D  
 in env_ego  
 
     ros2 launch ego_planner uav_new_garage.launch.py  
@@ -28,7 +28,11 @@ in env_ego
     (这里visualization_tools.launch.py需要解注释才能用，后续再传一个上去)  
 in planner  
 
-    ros2 launch uav_planner 5_21_new_garage_invalid.launch.py  
+    ros2 launch uav_planner garage_D_uav.launch.py (Stable_version)
+or
+
+    ros2 launch uav_planner 5_21_new_garage_invalid.launch.py (Fast_version)
+Performing Fast_version, please set "max_vel" and "max_acc" as 5.0 and 3.0 respectively in "single_run_in_sim.launch.py" of project env.
 ### Narrow Tunnel  
 in env_ros1  
 
