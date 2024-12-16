@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>uav_planner</name>
+  <version>0.0.0</version>
+  <description>TARE Exploration Planner for Ground Vehicles</description>
+  <maintainer email="ccao1@andrew.cmu.edu">Chao Cao</maintainer>
+
+  <license>BSD</license>
+
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>std_msgs,rclcpp,nav_msgs,sensor_msgs,pcl_ros,visualization_msgs</depend>
+
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+<!-- 这个是测试依赖项，不知道具体什么用 -->
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+  <!-- 导出构建类型，要么cmake，要么python -->
+</package>

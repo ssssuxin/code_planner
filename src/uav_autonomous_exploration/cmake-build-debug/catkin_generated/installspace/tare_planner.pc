@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: tare_planner
+Description: Description of tare_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: nav_msgs roscpp rospy sensor_msgs std_msgs pcl_ros
