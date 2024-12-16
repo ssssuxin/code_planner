@@ -21,7 +21,7 @@ Ros2 Foxy
 ## Usages  
 Please follow step "Simulation environment" to install experimental environments first.
 ### Garage-D  
-in env_ego  
+in env_ego (https://github.com/ssssuxin/autonomous_navigation_environment_ego)  
 
     ros2 launch ego_planner uav_new_garage.launch.py  
     ros2 launch visualization_tools visualization_tools.launch.py  
@@ -34,10 +34,10 @@ or
     ros2 launch uav_planner 5_21_new_garage_invalid.launch.py (Fast_version)
 Performing Fast_version, please set "max_vel" and "max_acc" as 5.0 and 2.5 respectively in "single_run_in_sim.launch.py" of project env.
 ### Narrow Tunnel  
-in env_ros1 https://github.com/ssssuxin/autonomous_navigation_environment_ros1    
+in env_ros1 (https://github.com/ssssuxin/autonomous_navigation_environment_ros1)    
 
     roslaunch vehicle_simulator narrow_tunnel.launch  
-in env_ego https://github.com/ssssuxin/autonomous_navigation_environment_ego    
+in env_ego (https://github.com/ssssuxin/autonomous_navigation_environment_ego)    
 
     ros2 launch visualization_tools visualization_tools_for_tunnel.launch.py   
 in planner  
