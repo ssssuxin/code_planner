@@ -32,7 +32,7 @@ in planner
 or
 
     ros2 launch uav_planner 5_21_new_garage_invalid.launch.py (Fast_version)
-Performing Fast_version, please set "max_vel" and "max_acc" as 5.0 and 3.0 respectively in "single_run_in_sim.launch.py" of project env.
+Performing Fast_version, please set "max_vel" and "max_acc" as 5.0 and 2.5 respectively in "single_run_in_sim.launch.py" of project env.
 ### Narrow Tunnel  
 in env_ros1  
 
