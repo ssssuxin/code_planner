@@ -39,14 +39,14 @@ in env_ros1 https://github.com/ssssuxin/autonomous_navigation_environment_ros1
     roslaunch vehicle_simulator narrow_tunnel.launch  
 in env_ego https://github.com/ssssuxin/autonomous_navigation_environment_ego    
 
-    ros2 launch visualization_tools visualization_tools.launch.py   
+    ros2 launch visualization_tools visualization_tools_for_tunnel.launch.py   
 in planner  
 
-    ros2 launch uav_planner explore_tunnel_5_20_guv.launch.py 
+    ros2 launch uav_planner tunnel_guv.launch.py
 in a new terminate  
 
-    souce /opt/ros/noetic/setup.bash
-    souce /opt/ros/foxy/setup.bash
+    source /opt/ros/noetic/setup.bash
+    source /opt/ros/foxy/setup.bash
     ros2 run ros1_bridge dynamic_bridge   
 note: you cloud install ros1_bridge by apt-get or https://github.com/ros2/ros1_bridge
 
