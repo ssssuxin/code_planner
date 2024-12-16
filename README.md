@@ -25,7 +25,8 @@ in env_ego (https://github.com/ssssuxin/autonomous_navigation_environment_ego)
 
     ros2 launch ego_planner uav_new_garage.launch.py  
     ros2 launch visualization_tools visualization_tools.launch.py  
-    
+
+(If anything wrong with rendering simulation environment, please try copy directory "new_garage_v2"(in src/vehicle_simulator/mesh) to "~/.gazebo/models")    
 in planner  
 
     ros2 launch uav_planner garage_D_uav.launch.py (Stable_version)
