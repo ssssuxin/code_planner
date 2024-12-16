@@ -25,7 +25,7 @@ in env_ego
 
     ros2 launch ego_planner uav_new_garage.launch.py  
     ros2 launch visualization_tools visualization_tools.launch.py  
-    (这里visualization_tools.launch.py需要解注释才能用，后续再传一个上去)  
+    
 in planner  
 
     ros2 launch uav_planner garage_D_uav.launch.py (Stable_version)
